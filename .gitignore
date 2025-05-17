@@ -1,0 +1,23 @@
+# Build
+*.exe
+*.out
+*.log
+bin/
+dist/
+build/
+
+# Vendor
+vendor/
+
+# Go modules cache
+go.sum
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+
+# Env
+.env
+.env.local
+.env.*.local
